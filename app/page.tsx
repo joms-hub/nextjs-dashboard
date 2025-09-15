@@ -37,11 +37,11 @@ export default function Page() {
             className="hidden md:block"
           />
           <Image
-            src="/dashboard-hero-mobile.png"
+            src="/dashboard-mobile.png"
             alt="Dashboard Hero Mobile"
             width={560}
             height={620}
-            className="md:hidden"
+            className="block md:hidden"
           />
         </div>
       </div>
